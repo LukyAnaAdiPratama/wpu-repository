@@ -4,3 +4,4 @@ RENCANA BELAJAR
 - CSS
 - PHP
 - Framework
+- Corel Draw
