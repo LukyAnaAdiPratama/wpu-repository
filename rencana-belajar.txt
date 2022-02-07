@@ -3,6 +3,7 @@ RENCANA BELAJAR
 - HTML
 - CSS
  *CSS3
+ *CSS Box Model
 - PHP
 - Framework
 - Corel Draw
