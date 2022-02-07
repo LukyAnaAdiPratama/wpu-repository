@@ -2,6 +2,8 @@ RENCANA BELAJAR
 
 - HTML
 - CSS
+ *CSS3
 - PHP
 - Framework
 - Corel Draw
+- Phyton
