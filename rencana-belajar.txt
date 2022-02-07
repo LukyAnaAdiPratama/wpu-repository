@@ -2,6 +2,8 @@ RENCANA BELAJAR
 
 - HTML
 - CSS
+ *CSS table
+ *CSS color
 - PHP
 - Framework
-- Corel Draw
+
