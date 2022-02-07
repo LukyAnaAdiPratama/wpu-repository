@@ -2,9 +2,10 @@ RENCANA BELAJAR
 
 - HTML
 - CSS
+ *CSS table
  *CSS3
- *CSS Box Model
 - PHP
 - Framework
 - Corel Draw
 - Phyton
+
